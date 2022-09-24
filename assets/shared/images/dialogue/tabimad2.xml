@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tabimad2.png">
+	<SubTexture name="10000" x="0" y="0" width="200" height="265" frameX="0" frameY="0" frameWidth="201" frameHeight="265" />
+	<SubTexture name="20000" x="175" y="265" width="209" height="241" frameX="0" frameY="0" frameWidth="209" frameHeight="241" />
+	<SubTexture name="30000" x="200" y="0" width="245" height="262" frameX="0" frameY="0" frameWidth="245" frameHeight="262" />
+	<SubTexture name="40000" x="445" y="0" width="245" height="261" frameX="0" frameY="0" frameWidth="245" frameHeight="261" />
+	<SubTexture name="50000" x="0" y="265" width="175" height="257" frameX="0" frameY="0" frameWidth="175" frameHeight="257" />
+	<SubTexture name="60000" x="0" y="522" width="195" height="194" frameX="0" frameY="0" frameWidth="195" frameHeight="194" />
+	<SubTexture name="70000" x="195" y="522" width="231" height="179" frameX="0" frameY="0" frameWidth="231" frameHeight="179" />
+	<SubTexture name="80000" x="690" y="0" width="181" height="201" frameX="0" frameY="0" frameWidth="181" frameHeight="201" />
+	<SubTexture name="90000" x="384" y="265" width="162" height="213" frameX="0" frameY="0" frameWidth="162" frameHeight="213" />
+</TextureAtlas>
