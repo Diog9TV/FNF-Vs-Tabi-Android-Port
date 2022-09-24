@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "applebees2",
+		"player1": "bf-tabi-crazy",
+		"player2": "tabi-crazy",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Toggle Trail",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-scared",
+		"bpm": 213,
+		"arrowSkin": "mad notes",
+		"needsVoices": true,
+		"song": "Genocide-Retro"
+	}
+}
