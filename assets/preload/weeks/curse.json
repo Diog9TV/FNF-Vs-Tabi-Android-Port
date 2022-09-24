@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"My-Battle",
+			"tabi",
+			[
+				255,
+				187,
+				129
+			]
+		],
+		[
+			"Last-Chance",
+			"tabi",
+			[
+				255,
+				187,
+				129
+			]
+		],
+		[
+			"Genocide",
+			"tabi-c",
+			[
+				255,
+				161,
+				93
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"tabi",
+		"bf",
+		"gf"
+	],
+	"storyName": "Curse",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
