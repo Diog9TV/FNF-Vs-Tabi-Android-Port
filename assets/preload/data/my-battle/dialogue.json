@@ -1,0 +1,186 @@
+{
+  "dialogue": [
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Hey There Boyfriend!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Beep!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "2",
+      "text": "I Wanted To Tell You That Im Inviting You With Me To A Restaurant!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Beep!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Well, My Father\u0027s Friend Invited Me For Some Reason"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Skboop Bep? Bep Dop Boop"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "It\u0027s My Favorite Restaurant! I Wonder How He Knew..."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Anyways! I Wanted To Take You Aswell, I Want Ya\u0027ll To Meet Each Other Already He\u0027s My Uncle!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Beep"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Great, Then I\u0027m Going To Call For A Taxi"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "noone",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "So They Went To The Restaurant To Meet Girlfriend\u0027s Uncle"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Hey Boyfriend, I Need To Go To The Bathroom, Wait For Me Here"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Beep! Skbeep!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Ahah! Okay, Okay! You Can Escort Me There My Love"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "*Shy Beeps*"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "I Love You Too!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Huh? TABI?!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "tabi",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "...."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "boxState": "confused",
+      "expression": "talk",
+      "text": "Shit..."
+    },
+    {
+      "speed": 0.05,
+      "portrait": "tabi",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "So We Finally Meet After 1 Year Of Hiding"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "gf",
+      "text": "*Shaking From Fear*",
+      "boxState": "Confused",
+      "expression": "talk"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "tabi",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Wait? Who Are YOU?"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Beep Bop Skbeep"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "tabi",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "So You Already Started Dating Another Guy, Yet Another Victim Huh? Listen Dude, This Is My Battle Not Yours Just Let Me End This All, Leave!"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "bf",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "Beep Bop Dop Skbop"
+    },
+    {
+      "speed": 0.05,
+      "portrait": "tabi",
+      "boxState": "normal",
+      "expression": "talk",
+      "text": "You Do Realize That She Is Just Using You, Right?"
+    }
+  ]
+}
